@@ -50,8 +50,30 @@
     position: absolute;
     bottom: 250px;
     left: 550px;
+     font-weight: 400;
+    color: white;
+    background-color: blue;
+    border-radius: 8px;
+    padding: 8px 22px;
   }
-    
+  .section01{
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+  }
+  .explore h3 p button{
+    justify-content: center;
+    align-items: center;
+    border: 1px solid indianred;
+  }
+    .webflow img{
+        margin: 15px;
+        border-radius: 60px;
+        right: 80px;
+        
+        
+    }
     
     
 
